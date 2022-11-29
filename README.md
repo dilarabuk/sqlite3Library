@@ -3,4 +3,4 @@ By using this algorithm that I've written by using sqlite3 library from Python; 
 
 ![image](https://user-images.githubusercontent.com/76563133/204601389-1c97bec5-c70a-4dd1-a771-7f806e9df521.png)
 
-Here is a screenshot of my movie library.
+Here is a screenshot of my movies library.
